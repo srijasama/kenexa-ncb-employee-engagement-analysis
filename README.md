@@ -39,3 +39,9 @@ The analysis integrates three primary data sources:
 - K-Means clustering (unsupervised learning)
 - Principal Component Analysis (PCA)
 - Branch segmentat
+## 🏃 How to Run This Project
+
+1. Clone the repository:
+2. Place a mock or anonymized dataset in the `data/` folder named `mock_kenexa_data.csv`.
+3. Open the R scripts in RStudio.
+4. Run the scripts in order from the `scripts/` folder.
