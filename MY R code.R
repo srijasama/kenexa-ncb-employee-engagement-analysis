@@ -4,7 +4,8 @@ library(dplyr)
 library(ggplot2)
 library(corrplot)
 
-data <- read_excel("~/Downloads/file.xlsx")
+# NOTE: Raw client data is confidential and not included
+data <- read.csv("data/mock_kenexa_data.csv")
 # Inspect and clean
 str(data)
 summary(data)
