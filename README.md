@@ -29,8 +29,6 @@ The analysis integrates three primary data sources:
 - **Branch Performance Metrics**  
   Operational indicators such as teller productivity and efficiency ratios.
 
-⚠️ **Note:** Raw datasets are not included due to confidentiality and academic integrity requirements.  
-All scripts preserve the original data structure and analytical logic using anonymized or mock data.
 
 ---
 
