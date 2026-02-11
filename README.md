@@ -39,7 +39,14 @@ The analysis integrates three primary data sources:
 - K-Means clustering (unsupervised learning)
 - Principal Component Analysis (PCA)
 - Branch segmentat
-## 🏃 How to Run This Project
+
+## 📊 Key Findings
+
+- Employee engagement significantly impacts service quality.
+- Service quality is the strongest predictor of customer loyalty (R² ≈ 0.81).
+- K-means clustering segmented 128 branches into high, medium, and low performance groups.
+- PCA was used to reduce dimensionality and identify major engagement drivers.
+
 
 1. Clone the repository:
 2. Place a mock or anonymized dataset in the `data/` folder named `mock_kenexa_data.csv`.
